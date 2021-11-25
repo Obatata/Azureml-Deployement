@@ -1,0 +1,4 @@
+azureml-sdk
+azureml-defaults
+pandas
+sklearn
